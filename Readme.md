@@ -2,7 +2,8 @@
 Lineas añadida para git log
 commit por VsCodegi
 git reset, para embarradas
-
 ##Features
 deshacer un commit
 Este es la restauraciín del commit
+
+#crear ramas 

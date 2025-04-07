@@ -8,13 +8,12 @@ git reset, para embarradas
 
 ##Features
 deshacer un commit
-esta la borro y añado otra
-
-##Features
-deshacer un commit
 Este es la restauraciín del commit
 
 #crear ramas 
  Temporary merge branch 2
 
 Crear rama con checkout -b
+
+Ya hice la combinación con marge (en PollitosDevs)
+Hago edición y comnino con main

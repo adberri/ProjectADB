@@ -8,3 +8,4 @@ Este es la restauracion del commit
 
 #crear ramas 
 se crearon dos ramas
+está presentando conflicto porque no sabe que rama conservar

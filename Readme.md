@@ -4,6 +4,7 @@ commit por VsCodegi
 git reset, para embarradas
 ##Features
 deshacer un commit
-Este es la restauraciín del commit
+Este es la restauracion del commit
 
 #crear ramas 
+se crearon dos ramas

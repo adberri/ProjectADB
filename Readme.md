@@ -1,11 +1,20 @@
 # Hola mis amigos de Git y del proyecto de gestión PH
-Lineas añadida para git log
+
+Lineas añadida para git log, lista de commits
+
 commit por VsCodegi
 git reset, para embarradas
+ Temporary merge branch 1
+
 ##Features
 deshacer un commit
-Este es la restauracion del commit
+esta la borro y añado otra
+
+##Features
+deshacer un commit
+Este es la restauraciín del commit
 
 #crear ramas 
-se crearon dos ramas
-está presentando conflicto porque no sabe que rama conservar
+ Temporary merge branch 2
+
+Crear rama con checkout -b

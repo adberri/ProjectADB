@@ -16,3 +16,5 @@ Este es la restauraciín del commit
 #crear ramas checkout "branch"
 
 Crear rama con checkout -b
+
+Ya hice la combinación con marge (en PollitosDevs)

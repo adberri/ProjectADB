@@ -17,3 +17,5 @@ Crear rama con checkout -b
 
 Ya hice la combinación con marge (en PollitosDevs)
 Hago edición y comnino con main
+
+Elimine la branch databaseSQL con git branch -d

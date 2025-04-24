@@ -22,6 +22,10 @@ Elimine la branch databaseSQL con git branch -d
 
 Hoy voy generar el confilcto para luego hacer un PR
 
+ Database
 esta es ediciòn en rama main
 
 Esta es database y voy con un conflicto 
+
+esta es ediciòn en rama main
+ main

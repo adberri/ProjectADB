@@ -22,4 +22,4 @@ Elimine la branch databaseSQL con git branch -d
 
 Hoy voy generar el confilcto para luego hacer un PR
 
-Esta es database
+Esta es database y voy con un conflicto 

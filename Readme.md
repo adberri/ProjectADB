@@ -15,7 +15,4 @@ Este es la restauraciín del commit
 
 Crear rama con checkout -b
 
-Ya hice la combinación con marge (en PollitosDevs)
-Hago edición y comnino con main
-
-Elimine la branch databaseSQL con git branch -d
+Elimine 3 lineas y estoy haciendo un cambio paralelo para el conflicto

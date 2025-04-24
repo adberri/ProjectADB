@@ -23,3 +23,5 @@ Elimine la branch databaseSQL con git branch -d
 modificacion
 
 Hoy voy generar el confilcto para luego hacer un PR
+
+esta es ediciòn en rama main

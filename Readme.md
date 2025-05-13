@@ -13,19 +13,4 @@ Este es la restauraciín del commit
 #crear ramas 
  Temporary merge branch 2
 
-Crear rama con checkout -b
-
-Ya hice la combinación con marge (en PollitosDevs)
-Hago edición y comnino con main
-
-Elimine la branch databaseSQL con git branch -d
-
-Hoy voy generar el confilcto para luego hacer un PR
-
- Database
-esta es ediciòn en rama main
-
-Esta es database y voy con un conflicto 
-
-esta es ediciòn en rama main
- main
+Reinicio del PR
